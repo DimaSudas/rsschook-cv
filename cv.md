@@ -3,7 +3,7 @@
    Number: +375295053025
 3. My goal is to learn several programming languages, find a good job and try to work efficiently in order to earn a lot and not limit myself in anything. One of my strengths is the quality of the work and the desire to do it properly.
 4. Languages were partially studied: C, C++, Assembler, HTML, CSS
-5.
+5. 
         void MainWindow::closeEvent(QCloseEvent *event){
         if(this->isVisible() && ui->trayCheckBox->isChecked()){
         event->ignore();         
