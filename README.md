@@ -1,2 +1,2 @@
 # rsschook-cv
-https://DimaSudas.github.io/rsschool-cv/cv
+https://dimasudas.github.io/rsschool-cv/
