@@ -5,18 +5,15 @@
 4. Languages were partially studied: C, C++, Assembler, HTML, CSS.
 
 5. 
-        void MainWindow::closeEvent(QCloseEvent *event){
-        if(this->isVisible() && ui->trayCheckBox->isChecked()){
-        event->ignore();         
-        this->hide();         
-        QSystemTrayIcon::MessageIcon icon = QSystemTrayIcon::MessageIcon(QSystemTrayIcon::Information);
-        trayIcon->showMessage("Tray prog",
-                       tr("Приложение свернуто в трей. Для того чтобы, "
-                                 "развернуть окно приложения, щелкните по иконке приложения в трее"),
-                       icon,
-                       2000);
+         function makeNegative(num) {
+            if (num>0){  
+               return (-num);   
+            }   
+            if (num<=0){                  
+               return (num);                  
             }
-        }
+          }
+          
 6. No work experience
 7. Incomplete higher education (still a student)
 8. I studied English in elementary school and at university, and also went to a tutor
