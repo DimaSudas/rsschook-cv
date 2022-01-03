@@ -169,8 +169,8 @@ main {
     color: #66cc;
     position: absolute;
     left: 0;
-    bottom: -99;
-    width: 99.4%;
+    bottom: -96px;
+    width: 99.45%;
     height: 50px;
   }
 
@@ -181,7 +181,7 @@ main {
   .profile-url{
     color: #66cc;
     float: left;
-    padding: 11;
+    padding: 11px;
   }
 
   .url-color{
