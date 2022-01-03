@@ -17,8 +17,6 @@
                return (num);                  
             }
           }
-          
-
 6. No work experience
 7. Incomplete higher education (still a student)
 8. I studied English in elementary school and at university, and also went to a tutor
